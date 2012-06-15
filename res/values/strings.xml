@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GordonActivity!</string>
+    <string name="app_name">Gordon 1</string>
+    <string name="valeur">Valeur :</string>
+    <string name="sectionIntent">Intents</string>
+    <string name="sectionThread">Threads</string>
+    <string name="sectionListe">Liste</string>
+    <string name="activityC">Activity C</string>
+    <string name="btnActionA">Simple</string>
+    <string name="btnActionB">Callback</string>
+    <string name="btnActionC">Téléphone</string>
+    <string name="btnActionD">Waiting dialog</string>
+    <string name="btnActionE">Listes</string>
+    <string name="aucuneValeur">Aucune valeur de retour n\'est spécifiée.</string>
+    <string name="alf">Salut, c\'est Alf !</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="btnA" type="id"/>
+    <item name="btnB" type="id"/>
+    <!-- btnC est défini dans le layout -->
+    <item name="btnD" type="id"/>
+    <item name="btnE" type="id"/>
+    <item name="valeurEditText" type="id"/>
+
+</resources>

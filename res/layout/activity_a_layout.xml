@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        style="@style/SectionTitle"
+        android:text="@string/sectionIntent" />
+
+    <Button
+        android:id="@id/btnA"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnActionA" />
+
+    <Button
+        android:id="@id/btnB"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnActionB" />
+
+    <Button
+        android:id="@+id/btnC"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnActionC" />
+
+    <TextView
+        style="@style/SectionTitle"
+        android:text="@string/sectionThread" />
+
+    <Button
+        android:id="@id/btnD"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnActionD" />
+
+    <TextView
+        style="@style/SectionTitle"
+        android:text="@string/sectionListe" />
+
+    <Button
+        android:id="@id/btnE"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnActionE" />
+
+</LinearLayout>
